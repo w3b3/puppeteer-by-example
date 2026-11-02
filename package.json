@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/kaycebasques/puppeteer-by-example#readme",
   "dependencies": {
-    "puppeteer": "^1.1.1"
+    "puppeteer": "^25.16.0"
   }
 }
